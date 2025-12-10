@@ -3,6 +3,8 @@
 > **Next-Gen AI Interviewer Platform**
 > 
 > Automate and enhance your hiring process with intelligent, empathetic, and efficient AI interviewers.
+>
+> [Watch Project Walkthrough](https://www.loom.com/share/0149a0dd3a114ff9912118f9da5c68bb)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
